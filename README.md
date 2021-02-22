@@ -1,4 +1,4 @@
-<img src="https://github.com/gyasis/blockchaining/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<img src="https://github.com/gyasis/gyasis/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 <!--
 **gyasis/gyasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
