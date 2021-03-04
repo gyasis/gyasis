@@ -1,6 +1,6 @@
 
 ### Hi, I'm Gyasi. 
-#### I am a medical doctor, mainly working with Python programming for data science and A.I. to apply in medical applications.
+#### I am a medical doctor, mainly working with Python programming for data science and A.I. to apply in medical applications. However that doesn't mean that I don't tinker in other projects and hobbies
 #### Relearning R and Node
 #### Discovered Rust :heart_eyes:
 
