@@ -24,14 +24,13 @@
                     <img src="http://jonbennallick.co.uk/wp-content/uploads/2012/11/Twitter-Logo-Icon-by-Jon-Bennallick-02-300x300.png" alt="Twitter Icon">
                 </a>
             </div>
+            
             <div class="social-icons-image">
                 <a href="http://www.linkedin.com">
                     <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-                </a>
-                
-                
+                </a>    
             </div>
-        </div>
+       
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2e436bf8-ae76-4231-9a26-f43c18a1e56c/12171c68-000e-47eb-873b-c16b6bff1377.png" width="400" height="300" /></a>
 <!--
