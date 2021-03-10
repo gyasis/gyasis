@@ -4,7 +4,7 @@
 #### Relearning R and Node
 #### Discovered Rust :heart_eyes:
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2e436bf8-ae76-4231-9a26-f43c18a1e56c/72e5b037-fe08-4a09-b9bf-851da9260b18.png" /></a>
+<figure><embed src="https://wakatime.com/share/@2e436bf8-ae76-4231-9a26-f43c18a1e56c/d17113dc-ee5b-41a3-bac2-539246e72991.svg"></embed></figure>
 <!--
 **gyasis/gyasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
