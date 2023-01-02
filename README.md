@@ -1,6 +1,6 @@
 
 ### Hi, I'm Gyasi. 
-Hi there! I am a medical doctor with a strong background in data science and artificial intelligence engineering. I have experience working with Python, R, and SAS, and have a particular interest in computer vision. In addition to my technical skills, I also have experience in frontend and backend development. I am excited to continue learning and growing as a data scientist, and am always looking for new opportunities to apply my skills and make a positive impact. Thank you for visiting my profile.
+I am a medical doctor with a Master's in Public Health, and I have a strong background in data science, and artificial intelligence engineering. I am currently consulting at a medical software company, where I use my technical skills and medical knowledge to improve both clinical and population medicine. In particular, I have experience working with Python, R, SAS, and Rust, and have a particular interest in Computer Vision though I find Natural Language Processing to be my secret mistress. My public health background has also allowed me to focus on population-level approaches to improving healthcare, and I am always looking for ways to apply my skills to make a positive impact on medicine. Thank you for visiting my profile.
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2e436bf8-ae76-4231-9a26-f43c18a1e56c/b2574c43-4be1-46cd-bcb4-13a672699ef0.png" /></a>
 <!--
 **gyasis/gyasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
