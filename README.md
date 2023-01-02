@@ -1,8 +1,6 @@
 
 ### Hi, I'm Gyasi. 
-#### I am a medical doctor, who also is a python developer for data science and A.I. to apply in medical applications. However that doesn't mean that I don't tinker in other projects and hobbies
-#### I also develop R and SAS projects 
-#### Discovered Rust :heart_eyes:
+Hi there! I am a medical doctor with a strong background in data science and artificial intelligence engineering. I have experience working with Python, R, and SAS, and have a particular interest in computer vision. In addition to my technical skills, I also have experience in frontend and backend development. I am excited to continue learning and growing as a data scientist, and am always looking for new opportunities to apply my skills and make a positive impact. Thank you for visiting my profile.
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2e436bf8-ae76-4231-9a26-f43c18a1e56c/b2574c43-4be1-46cd-bcb4-13a672699ef0.png" /></a>
 <!--
 **gyasis/gyasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
